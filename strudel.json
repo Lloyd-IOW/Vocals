@@ -1,5 +1,7 @@
 {
-  "Brandy": {
-    "0": "Brandy_LTHW.mp3"
-  }
+"_base": "https://raw.githubusercontent.com/Lloyd-IOW/Vocals/main/Brandy_LTHW.mp3",
+"vocals": ["Brandy_LTHW.mp3"]
 }
+
+
+
